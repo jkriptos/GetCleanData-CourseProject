@@ -8,7 +8,7 @@ The scripts are intented to run in any environment as long as two conditions are
 
 After these conditions, the analysis is run by sourcing the file and executing the runAnalisi function, as especified in the following snippet.
 
-```sh
+```{r}
 > source("run_analysis.R")
 > tidySet <- runAnalisis()
 [1] "Extracting Test set..."
