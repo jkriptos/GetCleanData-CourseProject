@@ -47,7 +47,7 @@ The functions shared in this script file are:
 * **subject.get**: returns the subject data for the test or training set. The dataset contains only one column and it prefixes each subject with the word *"Subject-"*, which makes a more distinctive label for the subjects. 
 * **activity.get**: returns the activity data for the test or training set. The dataset modifies the numbers from the raw data for more descriptive names, as provided by the data author in the *activity_labels.txt* file.
 
-####**run_analysis.R**
+#####**run_analysis.R**
 
 Performs merging between the data, subject and activity sets. It also selects the most relevant columns for our analysis, forms one single data set (instead of one for Test and one for Training), groups the info by Subject and Activity and performs a summary on the averages for each measurement. Finally, it also provides an utility to save the results to disk.
 
