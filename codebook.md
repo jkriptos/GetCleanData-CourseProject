@@ -1,6 +1,6 @@
 ### Code book
 
-####Variables 
+#####Variables 
 
 * Subject: Subject for this observation.
 * Activity: Activity of the Subject for this observation.
