@@ -1,2 +1,72 @@
-Code Book
----------
+### Code book
+
+####Variables 
+
+* Subject: Subject for this observation.
+* Activity: Activity of the Subject for this observation.
+* tBodyAcc.mean.X: Average of windows for this measure. 
+* tBodyAcc.mean.Y: Average of windows for this measure. 
+* tBodyAcc.mean.Z: Average of windows for this measure. 
+* tGravityAcc.mean.X: Average of windows for this measure. 
+* tGravityAcc.mean.Y: Average of windows for this measure. 
+* tGravityAcc.mean.Z: Average of windows for this measure. 
+* tBodyAccJerk.mean.X: Average of windows for this measure. 
+* tBodyAccJerk.mean.Y: Average of windows for this measure. 
+* tBodyAccJerk.mean.Z: Average of windows for this measure. 
+* tBodyGyro.mean.X: Average of windows for this measure. 
+* tBodyGyro.mean.Y: Average of windows for this measure. 
+* tBodyGyro.mean.Z: Average of windows for this measure. 
+* tBodyGyroJerk.mean.X: Average of windows for this measure. 
+* tBodyGyroJerk.mean.Y: Average of windows for this measure. 
+* tBodyGyroJerk.mean.Z: Average of windows for this measure. 
+* tBodyAccMag.mean: Average of windows for this measure. 
+* tGravityAccMag.mean: Average of windows for this measure. 
+* tBodyAccJerkMag.mean: Average of windows for this measure. 
+* tBodyGyroMag.mean: Average of windows for this measure. 
+* tBodyGyroJerkMag.mean: Average of windows for this measure. 
+* fBodyAcc.mean.X: Average of windows for this measure. 
+* fBodyAcc.mean.Y: Average of windows for this measure. 
+* fBodyAcc.mean.Z: Average of windows for this measure. 
+* fBodyAccJerk.mean.X: Average of windows for this measure. 
+* fBodyAccJerk.mean.Y: Average of windows for this measure. 
+* fBodyAccJerk.mean.Z: Average of windows for this measure. 
+* fBodyGyro.mean.X: Average of windows for this measure. 
+* fBodyGyro.mean.Y: Average of windows for this measure. 
+* fBodyGyro.mean.Z: Average of windows for this measure. 
+* fBodyAccMag.mean: Average of windows for this measure. 
+* fBodyBodyAccJerkMag.mean: Average of windows for this measure. 
+* fBodyBodyGyroMag.mean: Average of windows for this measure. 
+* fBodyBodyGyroJerkMag.mean: Average of windows for this measure. 
+* tBodyAcc.std.X: Average of windows for this measure. 
+* tBodyAcc.std.Y: Average of windows for this measure. 
+* tBodyAcc.std.Z: Average of windows for this measure. 
+* tGravityAcc.std.X: Average of windows for this measure. 
+* tGravityAcc.std.Y: Average of windows for this measure. 
+* tGravityAcc.std.Z: Average of windows for this measure. 
+* tBodyAccJerk.std.X: Average of windows for this measure. 
+* tBodyAccJerk.std.Y: Average of windows for this measure. 
+* tBodyAccJerk.std.Z: Average of windows for this measure. 
+* tBodyGyro.std.X: Average of windows for this measure. 
+* tBodyGyro.std.Y: Average of windows for this measure. 
+* tBodyGyro.std.Z: Average of windows for this measure. 
+* tBodyGyroJerk.std.X: Average of windows for this measure. 
+* tBodyGyroJerk.std.Y: Average of windows for this measure. 
+* tBodyGyroJerk.std.Z: Average of windows for this measure. 
+* tBodyAccMag.std: Average of windows for this measure. 
+* tGravityAccMag.std: Average of windows for this measure. 
+* tBodyAccJerkMag.std: Average of windows for this measure. 
+* tBodyGyroMag.std: Average of windows for this measure. 
+* tBodyGyroJerkMag.std: Average of windows for this measure. 
+* fBodyAcc.std.X: Average of windows for this measure. 
+* fBodyAcc.std.Y: Average of windows for this measure. 
+* fBodyAcc.std.Z: Average of windows for this measure. 
+* fBodyAccJerk.std.X: Average of windows for this measure. 
+* fBodyAccJerk.std.Y: Average of windows for this measure. 
+* fBodyAccJerk.std.Z: Average of windows for this measure. 
+* fBodyGyro.std.X: Average of windows for this measure. 
+* fBodyGyro.std.Y: Average of windows for this measure. 
+* fBodyGyro.std.Z: Average of windows for this measure. 
+* fBodyAccMag.std: Average of windows for this measure. 
+* fBodyBodyAccJerkMag.std: Average of windows for this measure. 
+* fBodyBodyGyroMag.std: Average of windows for this measure. 
+* fBodyBodyGyroJerkMag.std: Average of windows for this measure. 
